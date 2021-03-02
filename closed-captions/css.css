@@ -35,6 +35,8 @@ You probably want to change the styling.
 }
 .p0.on span:first-of-type {
 	opacity: 1;
+    background :   red ; 
+
 	transition: 0s;
 	font-weight: 200;
 }
